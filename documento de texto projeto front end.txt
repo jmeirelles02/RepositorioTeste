@@ -1,2 +1,4 @@
 exerccicio de git projeto front end
 editado no github
+editado no diretorio local após git pull
+
